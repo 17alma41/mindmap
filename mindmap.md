@@ -1,0 +1,21 @@
+```mermaid
+mindmap
+root((HTML))
+    head
+        title
+        meta
+    body
+        ((texos))
+            h1-h7
+            p
+            pre
+            a
+        ((inputs))
+            text
+            password
+            email
+            range
+            number
+            color
+    
+```
