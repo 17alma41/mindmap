@@ -17,5 +17,21 @@ root((HTML))
             range
             number
             color
-    
+        ((media))
+            img
+            video
+            audio
+            svg
+        ((container))
+            span
+            div
+    ((events))
+        onclick
+        onchange
+    ((atributos))
+        id
+        class
+        src
+        hidden
+        
 ```
